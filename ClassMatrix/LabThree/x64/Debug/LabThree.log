@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\bmm\лабораторная №3 - ооп\labthree\main.cpp(55): warning C4715: <lambda_57180d65c56f4b9886ea16f0a4f89198>::operator(): значение возвращается не при всех путях выполнения
+  LabThree.vcxproj -> C:\bmm\Лабораторная №3 - ООП\x64\Debug\LabThree.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\e400\source\repos\examoop\examoop\main.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\e400\source\repos\examoop\examoop\main.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+  ExamOOP.vcxproj -> C:\Users\E400\source\repos\ExamOOP\Debug\ExamOOP.exe

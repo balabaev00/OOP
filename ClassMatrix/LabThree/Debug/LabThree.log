@@ -1,0 +1,9 @@
+﻿  Matrix.cpp
+c:\visual studio - задания\labthree\labthree\matrix.cpp(65): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  main.cpp
+  Создание кода...
+  LabThree.vcxproj -> C:\Visual Studio - Задания\LabThree\Debug\LabThree.exe

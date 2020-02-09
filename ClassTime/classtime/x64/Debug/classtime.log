@@ -1,0 +1,20 @@
+﻿  Time.cpp
+c:\лабораторная №2 - ооп\classtime\time.cpp(13): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(14): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(15): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(22): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(28): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(34): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(85): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(89): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(105): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(109): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(120): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(123): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(194): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(197): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\лабораторная №2 - ооп\classtime\time.cpp(200): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  classtime.cpp
+  filework.cpp
+  Создание кода...
+  classtime.vcxproj -> C:\Лабораторная №2 - ООП\x64\Debug\classtime.exe
